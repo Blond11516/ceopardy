@@ -76,11 +76,11 @@ A metric for measuring the difference between two sequences (like strings or bit
 ([1-2][0-9]|3[0-1]|0?[1-9])([-\.\/ ])(1[0-2]|0?[1-9])(\2)([\d]{4}|[\d]{2})
 
 >Memelord
-TODO
-TODO
-TODO
-TODO
-TODO
+[img:pikachu.png]
+[img:spongegar.png]
+[img:brian.png]
+[img:brain.png]
+[img:pigeon.png]
 
 >Programming Languages
 [img:ada.png]
@@ -90,11 +90,11 @@ TODO
 [img:fortran.png]
 
 >Authors
-TODO
-TODO
-TODO
-TODO
-TODO
+[img:operatingsystem.png]
+[img:artofcomputer.png]
+[img:discipline.png]
+[img:c_book.png]
+[img:cleancode.png]
 
 >Code Editors
 [img:atom.png]
