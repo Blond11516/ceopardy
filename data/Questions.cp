@@ -1,15 +1,15 @@
 >CS Games history
-Which university is hosting the current edition of the CS Games?
-Which university was supposed to host in 2020?
-The last edition of the CS Games not hosted in the province of Quebec
+This university is hosting the current edition of the CS Games
+This university was supposed to host in 2020
+The last edition of the CS Games not hosted in the province of Quebec.
 The first university to host the CS Games.
-TODO
+The name of the permanent committee that ensures the perennity of the CS Games.
 
 >Chat with GrandPapaTortue
 If you really had to choose, would you indent your code with spaces or tabs? You can only answer one word to this question.
 Let's play rock, paper, scissors. Reply with your pick, only one word. 1... 2... 3... Go!
 ChatGPT has two apples. Jen has one apple. Jen eats her apple. How many apples do you have? Answer with only one word.
-These are the ten universities participating in a computer science competition called the CS Games 2023, this week:\\n- Université de Sherbrooke\\n- Université Laval\\n- McGill University\\n- Windsor University\\n- École de Technologie Supérieure\\n- Université du Québec à Montréal\\n- Concordia University\\n- École Polytechnique Montréal\\n- Université du Québec à Chicoutimi\\nWithout explaining, make a prediction as to which university is most likely to win the CS Games. Reply with only the university name, nothing else, no explanation.
+These are the ten universities participating in a computer science competition called the CS Games 2023, Reply with only the winning university name, nothing else, no explanation.
 Which is best: Angular, Vue or React? You can only answer with one word.
 
 >Acronyms
@@ -30,10 +30,10 @@ The first humanoid robot to have a human-like walk. It's a research robot for Ho
 Google's equivalent of ChatGPT
 In machine learning, the simplified model of a biological neuron.
 The name given initially by Alan Turing of what we now know as the Turing Test.
-Quel ordinateur fabriqué par IBM a fait l'actualité lorsqu'il a battu le champion du monde d'échecs Garry Kasparov en 1997 ?
-TODO
+This computer, made by IBM, made the news when it beat world chess champion Garry Kasparov in 1997.
+The name of this AI program was developed by Deep Mind and predicts protein folding.
 
->School anthems
+>School Anthems
 Sherby
 ETS
 poly
@@ -83,7 +83,7 @@ A metric for measuring the difference between two sequences (like strings or bit
 [img:pigeon.png]
 
 >Programming Languages
-[img:ada.png]
+[img:adalang.png]
 [img:c.png]
 [img:cpp.png]
 [img:cobol.png]
