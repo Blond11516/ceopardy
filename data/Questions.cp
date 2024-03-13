@@ -19,12 +19,12 @@ HTTP + HTTPS - SSH
 [img:floppy.png]
 [img:commodore.png]
 
->Pipes
-1
-2
-3
-4
-5
+>Acronyms
+HTTP
+RTFM
+OSI
+TOML
+POSIX
 
 >Name that data structure!
 [img:stack.png]
@@ -40,19 +40,19 @@ Known for its simplicity and readability, this programming language was designed
 Developed by Larry Wall in 1987, this programming language is often used for system administration tasks and text processing.
 This functional programming language, named after a mathematician, was developed by a team at the Massachusetts Institute of Technology (MIT).
 
+>Famous Nerds
+Considered a lunatic by most, this scientist actually traveled through time with a vintage car.
+This countess published the first algorithm intended for use on a computer.
+This professional buster does **not** look like a walrus.
+This bloke kicked Enigma’s ass so hard they named a prize after him.
+Who the hell really knows what a “substitution principle” is anyway?
+
 >Algorithms and Data structures
 1
 2
 3
 4
 5
-
->Computer Science Concepts
-This principle states that a computer system should be broken down into smaller, simpler parts to facilitate design, implementation, and debugging.
-This concept, often used in object-oriented programming, allows a class to inherit properties and behavior from another class.
-This technique involves executing multiple tasks concurrently, allowing for improved performance and resource utilization.
-This data structure organizes data in a hierarchical manner using a set of linked nodes, with each node having a parent and zero or more children.
-This concept involves transforming data into a format that is unreadable to anyone except those with access to a specific key or password.
 
 >YouTube History
 This video is the first one to ever reach one billion views.
