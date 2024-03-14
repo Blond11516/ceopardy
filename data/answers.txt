@@ -62,8 +62,8 @@ Will Smith, YouTube Rewind 2018 (“YouTube Rewind 2018: Everyone Controls Rewin
 Neal Mohan
 
 >Random HTML and CSS facts
-1
-2
-3
-4
-5
+Hyper Text Markup Language
+table, thead, tbody, tr, td
+text-decoration
+Set the margin to auto
+mailto:

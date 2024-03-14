@@ -15,7 +15,7 @@ HTTP + HTTPS - SSH
 >Old Hardware
 [img:vga.png]
 [img:ps2.png]
-[img:serial.png]
+[img:serial.jpg]
 [img:floppy.png]
 [img:commodore.png]
 
@@ -41,7 +41,7 @@ Developed by Larry Wall in 1987, this programming language is often used for sys
 This functional programming language, named after a mathematician, was developed by a team at the Massachusetts Institute of Technology (MIT).
 
 >Famous Nerds
-Considered a lunatic by most, this scientist actually traveled through time with a vintage car.
+Considered a lunatic by most, this scientist actually travelled through time with a vintage car.
 This countess published the first algorithm intended for use on a computer.
 This professional buster does **not** look like a walrus.
 This bloke kicked Enigma’s ass so hard they named a prize after him.
@@ -62,8 +62,8 @@ This popular actor or actress sparked controversy when they appeared in a promin
 This person is the CEO of YouTube
 
 >Random HTML and CSS facts
-1
-2
-3
-4
-5
+This is what HTML stands for.
+These five tags can be found when creating a table in HTML
+One way this CSS property can be used is to remove the underline of a link.
+This is one way you can center a div horizontally across the page.
+This is the prefix used to send an email through an href attribute of an anchor element
