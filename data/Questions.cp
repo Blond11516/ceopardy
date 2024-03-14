@@ -47,12 +47,12 @@ This professional buster does **not** look like a walrus.
 This bloke kicked Enigma’s ass so hard they named a prize after him.
 Who the hell really knows what a “substitution principle” is anyway?
 
->Algorithms and Data structures
-1
-2
-3
-4
-5
+>Logos
+[img:react.png]
+[img:eclipse.png]
+[img:pharo.png]
+[img:emacs.png]
+[img:nuget.png]
 
 >YouTube History
 This video is the first one to ever reach one billion views.

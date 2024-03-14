@@ -1,0 +1,69 @@
+>Video Game Trivia
+Minecraft
+Pac-Man
+Tetris
+Halo
+The Sims
+
+>Port Math
+523
+501
+3507
+3532
+8939
+
+>Old Hardware
+vga
+ps2
+serial
+floppy
+commodore64
+
+>Acronyms
+Hypertext Transfer Protocol
+Read The Fucking Manual (“Read The Fine Manual” and “Read The Friendly Manual” also accepted)
+Open Systems Interconnection
+Tom’s Obvious Minimal Language
+Portable Operating System Interface
+
+>Name that data structure!
+stack
+red-black-tree
+deque
+skip-list
+rope
+
+>Programming Languages
+Java
+Python
+C++
+Perl
+Haskell
+
+>Famous Nerds
+Doctor Emmet Brown
+Ada Lovelace
+Adam Savage
+Alan Turing
+Barbara Liskov
+
+>Logos
+[img:react.png]
+[img:eclipse.png]
+[img:pharo.png]
+[img:emacs.png]
+[img:nuget.png]
+
+>YouTube History
+Gangnam Style
+PewDiePie
+Me at the zoo
+Will Smith, YouTube Rewind 2018 (“YouTube Rewind 2018: Everyone Controls Rewind” and “Everyone Controls Rewind” also accepted)
+Neal Mohan
+
+>Random HTML and CSS facts
+1
+2
+3
+4
+5
