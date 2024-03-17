@@ -4,6 +4,7 @@ venv/
 
 # IDE files
 /.idea/
+/.vscode
 
 # dependencies managed by Bower
 /static/vendor/
